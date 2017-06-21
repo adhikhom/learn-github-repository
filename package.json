@@ -1,0 +1,24 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "learning Git a Web Developer Job Mastering the Modern Workflowing",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhikhom/learn-github-repository.git"
+  },
+  "author": "Adhikhom Sornsakul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhikhom/learn-github-repository/issues"
+  },
+  "homepage": "https://github.com/adhikhom/learn-github-repository#readme"
+}
